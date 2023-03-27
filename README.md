@@ -13,8 +13,8 @@ Made in July 2020 for my Programming exam in university.
 4. Build & run:
    1. Build the program by executing in order:  
       `$ g++ SIR_model_v2.cpp -c`  
-      `$ g++ SIR_model_v2.o -lsfml-graphics -lsfml-window -lsfml-system -o Build-SIR/SIR_model_v2`
-   2. Run the program by executing: `$ ./Build-SIR/SIR_model_v2`
+      `$ g++ SIR_model_v2.o -lsfml-graphics -lsfml-window -lsfml-system -o SIR_model_v2_executable`
+   2. Run the program by executing: `$ ./SIR_model_v2_executable`
       - N.B.: Make sure to have the 'Fonts' directory in the same directory of the executable, otherwise no text will be seen during run time.  
  
 Alternatively, you can build and run the program in one sweep by executing the script [`compile-link-run_v2.sh`](compile-link-run_v2.sh) from terminal (make it executable via `$ chmod u+x [scriptname].sh`).
