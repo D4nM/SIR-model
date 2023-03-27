@@ -17,7 +17,12 @@ Made in July 2020 for my Programming exam in university.
    2. Run the program by executing: `$ ./SIR_model_v2_executable`
       - N.B.: Make sure to have the 'Fonts' directory in the same directory of the executable, otherwise no text will be seen during run time.  
  
-Alternatively, you can build and run the program in one sweep by executing the script [`compile-link-run_v2.sh`](compile-link-run_v2.sh) from terminal (make it executable via `$ chmod u+x [scriptname].sh`).
+Alternatively, you can build and run the program in one sweep by executing the script [`compile-link-run_v2.sh`](compile-link-run_v2.sh) from terminal (make it executable via `$ chmod u+x compile-link-run_v2.sh`).
+
+## Other files
+- Exam project explanation and requests (ITA): [Progetto per l'esame anno 2020-21.pdf](https://github.com/D4nM/SIR-model/files/11081204/Progetto.per.l.esame.anno.2020-21.pdf)
+- My project report (ITA): [relazione-progetto.pdf](https://github.com/D4nM/SIR-model/files/11081147/relazione-progetto.pdf)
+
 
 
 
